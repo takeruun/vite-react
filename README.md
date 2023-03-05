@@ -2,6 +2,11 @@
 vite 利用した react アプリ
 https://ja.vitejs.dev/
 
+## setup
+```sh
+yarn create vite
+```
+
 ## 立ち上げ
 ```sh
 $ yarn dev
@@ -34,3 +39,7 @@ dist/assets/index-f98a384e.js  301.35 kB │ gzip: 96.57 kB
 `create-react-app`の React + webpack環境は立ち上げにだいたい 5s くらいかかってた
 
 webpack のようにたくさん設定する必要ない
+
+使用するためにあまりライブラリを必要としない
+
+ネット情報も結構ある感じ
