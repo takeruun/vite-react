@@ -43,3 +43,7 @@ webpack のようにたくさん設定する必要ない
 使用するためにあまりライブラリを必要としない
 
 ネット情報も結構ある感じ
+
+参考：
+
+https://qiita.com/suginoko/items/2ef35f5d92f42f57daf9
